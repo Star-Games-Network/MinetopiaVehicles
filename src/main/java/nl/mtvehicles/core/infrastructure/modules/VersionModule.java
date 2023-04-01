@@ -86,6 +86,9 @@ public class VersionModule {
             case "v1_19_R1":
                 returns = ServerVersion.v1_19;
                 break;
+            case "v1_19_R3":
+                returns = ServerVersion.v1_19;
+                break;
         }
         return returns;
     }
@@ -100,6 +103,7 @@ public class VersionModule {
         if (getServerVersion() == null) {
             logger.severe("--------------------------");
             logger.severe("Your Server version is not supported. The plugin will NOT load.");
+            logger.severe("You are running: " + serverVersion);
             logger.severe("Check the supported versions here: https://wiki.mtvehicles.eu/faq.html");
             logger.severe("--------------------------");
             Main.disablePlugin();

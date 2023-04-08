@@ -37,5 +37,5 @@ jobs:
     - name: Upload Shaded Build Artifact
       uses: actions/upload-artifact@v3.1.2
       with:
-        name: MTVehicles.jar
+        name: original-MTVehicles.jar
         path: target/original-MTVehicles.jar

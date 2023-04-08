@@ -7,6 +7,7 @@
 <a href="https://github.com/Zettovec/MinetopiaVehicles/releases"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Zettovec/MinetopiaVehicles?include_prereleases&label=pre-release"></a>
 <a href="https://www.spigotmc.org/resources/80910/"><img alt="Spiget Version" src="https://img.shields.io/spiget/downloads/80910"></a>
 <a href="https://www.spigotmc.org/resources/80910/"><img alt="Spiget Stars" src="https://img.shields.io/spiget/stars/80910?color=yellow"></a>
+[![Java CI](https://github.com/Star-Games-Network/MinetopiaVehicles/actions/workflows/Java-CI.yml/badge.svg?branch=2.5.0)](https://github.com/Star-Games-Network/MinetopiaVehicles/actions/workflows/Java-CI.yml)
 ---  
 
 ### ❗USE `/VEHICLE LANGUAGE` TO CHANGE THE LANGUAGE❗</h3>
